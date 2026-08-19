@@ -1,6 +1,6 @@
 # Tableau-Dashboard 
 #Dashboard file "C:\Users\hello\Desktop\data projects\Tableau\Graduate rate analytics.twb"
-#Understanding College Graduation Outcomes Tableau Dashboard Prepared by Hildegarde Mukonyora  |  Prepared 19 August 2026 This dashboard examines what shapes how long students take to graduate and how well they perform once there. Across 1,000 students, college GPA is most strongly tied to admissions readiness.
+#Graduation Rate Analysis Report #College Graduation Outcomes Tableau Dashboard Prepared by Hildegarde Mukonyora  |  Prepared 19 August 2026 #This dashboard examines what shapes how long students take to graduate and how well they perform once there. Across 1,000 students, college GPA is most strongly tied to admissions readiness.
 
 Executive Summary
 The Graduation Rate Analysis dashboard tracks student time-to-degree, parental background, income bracket, and academic performance across the surveyed cohort. Overall, on-time graduation stands at 43.9%, with an average of 4.98 years to graduate — indicating that a majority of students take longer than the standard four-year timeline. The dashboard's two strongest drivers of variation are household income bracket and parental level of education, both of which show a clear, consistent gradient against graduation outcomes.
